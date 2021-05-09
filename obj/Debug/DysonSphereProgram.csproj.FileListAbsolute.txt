@@ -1,0 +1,13 @@
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\obj\Debug\DysonSphereProgram.csprojAssemblyReference.cache
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\obj\Debug\DysonSphereProgram.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\bin\Debug\DysonSphereProgram.dll
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\bin\Debug\DysonSphereProgram.pdb
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\bin\Debug\0Harmony.dll
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\bin\Debug\Assembly-CSharp.dll
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\bin\Debug\BepInEx.dll
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\bin\Debug\BepInEx.Harmony.dll
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\bin\Debug\UnityEngine.dll
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\obj\Debug\DysonSphereProgram.csproj.CopyComplete
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\obj\Debug\DysonSphereProgram.dll
+C:\Users\Greg\Documents\projects\DysonSphereProgram\DysonSphereProgram\obj\Debug\DysonSphereProgram.pdb
