@@ -36,12 +36,22 @@ namespace DysonSphereProgram
             Console.WriteLine("harmony injected into skip button");
             return;
         }*/
-        [HarmonyPatch(typeof(DSPGame), "StartGameSkipPrologue")]
+        /*[HarmonyPatch(typeof(DSPGame), "StartGameSkipPrologue")]
         class Patch
         {
             static bool Prefix(GameDesc _gameDesc)
             {
                 Console.WriteLine("prologue patched");
+                return false;
+            }
+        }*/
+
+        [HarmonyPatch(typeof(PlayerAction_Build), "AddBuildPreview")]
+        class Patch
+        {
+            static bool Prefix(BuildPreview bp)
+            {
+                Console.WriteLine("build preview patched");
                 return false;
             }
         }
